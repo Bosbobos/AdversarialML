@@ -1,2 +1,8 @@
 ultralytics~=8.3.153
 datasets~=3.6.0
+torch~=2.1.2+cu121
+numpy~=1.26.4
+pandas~=2.3.0
+Pillow~=10.1.0
+ipython~=9.3.0
+adversarial-robustness-toolbox~=1.19.1
